@@ -1,0 +1,24 @@
+$base-font-stile: 50px;
+@mixin ph {
+    @media (max-width: 700px) {
+        @content;
+    }
+};
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:$base-font-stile;
+}
+body{
+    color: black;
+    background-image: url(../img/osen_les_park_128379_1920x1080.jpg);
+    width: 100%;
+    @include ph{
+        color: rgb(237, 169, 13);
+    }
+}
+
+@import "block/header.scss";
+@import "block/footer.scss";

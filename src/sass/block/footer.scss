@@ -1,0 +1,9 @@
+/* Footer */
+h2{
+    width: 720px;
+    margin: 0 auto;
+    
+    @include ph{
+        color: rgb(0, 0, 0); 
+    }
+}
