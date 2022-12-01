@@ -22,7 +22,7 @@
 
 ### CSS, SCSS
 
-[gulp-concat]https://www.npmjs.com/package/gulp-concat) Для обьединения в один файл CSS 
+[gulp-concat](https://www.npmjs.com/package/gulp-concat) Для обьединения в один файл CSS 
 [gulp-cssimport](https://www.npmjs.com/package/gulp-cssimport) Для последовательного размещения CSS фыйлов
 [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer) Автопрефиксер для CSS
 [gulp-csso](https://www.npmjs.com/package/gulp-csso) Для зжатия CSS файла
