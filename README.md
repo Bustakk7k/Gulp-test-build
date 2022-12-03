@@ -26,8 +26,7 @@
 [gulp-cssimport](https://www.npmjs.com/package/gulp-cssimport) Для последовательного размещения CSS фыйлов  
 [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer) Автопрефиксер для CSS  
 [gulp-csso](https://www.npmjs.com/package/gulp-csso) Для зжатия CSS файла  
-[gulp-rename](https://www.npmjs.com/package/gulp-rename) Для полной версии CSS файла  
-[gulp-shorthand](https://www.npmjs.com/package/gulp-shorthand) Заменяет все возможные свойства на их краткие формы  
+[gulp-rename](https://www.npmjs.com/package/gulp-rename) Для полной версии CSS файла   
 [gulp-group-css-media-queries](https://www.npmjs.com/package/gulp-group-css-media-queries) Собирает в одни стили все медиа запросы  
 [gulp-webp-css](https://www.npmjs.com/package/gulp-webp-css)  
 
